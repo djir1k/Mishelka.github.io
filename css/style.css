@@ -4,6 +4,8 @@ div {
   }
   body {
     font-family: 'Roboto Mono', monospace;
+    background-color:#35858B ;
+    color: #AEFEFF;
   }
 a{
     color: chartreuse;
@@ -16,7 +18,7 @@ p {
 }
 h1 {font-size: 20px;}
 img { 
-  border: 10px solid rgb(0, 225, 255);
+               border: 10px solid rgb(0, 225, 255);
     width: 100%;
 }
 
